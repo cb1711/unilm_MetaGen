@@ -1,5 +1,5 @@
 # UniLM
-**The repository has been cloned from the original UniLM repository and modified to add some special tokens for training into vocabulary
+**The repository has been cloned from an older commit of the original [UniLM](https://github.com/microsoft/unilm) repository and modified to add some special tokens for training into vocabulary 
 
 ## Environment
 
@@ -33,8 +33,8 @@ The mixed-precision training code requires the specific version of [NVIDIA/apex]
 Install the repo as a package in the docker:
 ```bash
 mkdir ~/code; cd ~/code
-git clone https://github.com/microsoft/unilm.git
-cd ~/code/unilm/src
+git clone https://github.com/cb1711/unilm_MetaGen.git
+cd ~/code/unilm_MetaGen/src
 pip install --user --editable .
 ```
 
