@@ -1,5 +1,5 @@
 # UniLM
-**The repository has been forked from the original UniLM repository and modified to add some special tokens for training into vocabulary
+**The repository has been cloned from the original UniLM repository and modified to add some special tokens for training into vocabulary
 
 **We develop pre-trained models for natural language understanding (NLU) and generation (NLG) tasks**
 
