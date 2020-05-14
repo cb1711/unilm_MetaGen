@@ -61,7 +61,7 @@ python biunilm/run_seq2seq.py --do_train --fp16 --amp --num_workers 1 \
   --learning_rate 0.00003 --warmup_proportion 0.1 --label_smoothing 0.1 \
   --num_train_epochs 80
 ```
-Finetuned checkpoint for evaluation will be uploaded when COVID-19 situation gets back to normal
+Finetuned checkpoint for evaluation on 2018 data can be downloaded from [here](https://drive.google.com/drive/folders/183TTs85c2fMtZY5haEN8eRMw1jOAC9Ny?usp=sharing)
 
 ```bash
 # run decoding
